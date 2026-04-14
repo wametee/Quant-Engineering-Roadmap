@@ -107,7 +107,7 @@ Platforms such as **MetaTrader 4** support **Expert Advisors (EAs)**—rules cod
 - Price can **stay away** from the mean longer than expected; **trends** and **volatility** can **change**.
 - **Risk management** (stops, size, diversification) matters because **reversion is not guaranteed** on your horizon.
 
-This document is **educational**, not investment advice. For the full article, examples, and disclaimers from the publisher, see [CMC Markets — Mean reversion](https://www.cmcmarkets.com/en-gb/trading-strategy/mean-reversion).
+This document is **educational**, not investment advice. For the full article, examples, and disclaimers from the publisher, see [CMC Markets — Mean reversion](https://www.cmcmarkets.com/en-gb/trading-strategy/mean-reversion)
 
 ---
 
